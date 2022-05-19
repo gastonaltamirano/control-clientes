@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "control-clientes-dafba": {
+      "hosting": {
+        "control-clientes": [
+          "control-clientes-dafba"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "control-clientes-dafba"
+  }
+}
